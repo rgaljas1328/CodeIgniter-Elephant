@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <meta charset="UTF-8">
         <meta http-equiv="Refresh" content="3600" >
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Item Monitoring</title>
+        <title>CodeIgniter - Elephant</title>
         <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
         <meta name="description" content="Elephant is a front-end template created to help you build modern web applications, fast and in a professional manner.">
         <meta property="og:url" content="http://demo.naksoid.com/elephant">
