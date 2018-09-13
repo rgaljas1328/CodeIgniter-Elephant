@@ -11,6 +11,7 @@ class Users extends Admin_Controller {
         $this->lang->load('admin/users');
 
         /* Title Page :: Common */
+        $this->load->model('admin/course_model');
         $this->page_title->push(lang('menu_users'));
         $this->data['pagetitle'] = $this->page_title->show();
 		
